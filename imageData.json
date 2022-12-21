@@ -1,0 +1,57 @@
+[
+  {
+    "url": "/images/birthday-wear.jpg",
+    "id": "1",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/bottoms-new-cat-2.0.jpg",
+    "id": "2",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/casual-wear.jpg",
+    "id": "3",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/date-night.jpg",
+    "id": "4",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/dresses",
+    "id": "5",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/kids-wear-new-cat-2.0.jpg",
+    "id": "6",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/new-arrivals-new-cat-2.0.jpg",
+    "id": "7",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/plus-size.jpg",
+    "id": "8",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/retro-love.jpg",
+    "id": "9",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/tops",
+    "id": "10",
+    "isFavorite": false
+  },
+  {
+    "url": "/images/trending--new-cat-2.0.jpg",
+    "id": "11",
+    "isFavorite": false
+  }
+]
